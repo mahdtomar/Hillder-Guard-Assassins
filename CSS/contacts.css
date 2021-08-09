@@ -1,0 +1,100 @@
+body{
+
+    position: relative;
+    left: 25px;
+   
+        font-size: 15pt;
+        position: center;
+        background-color: black;
+        padding: 0px;
+        margin: 0px;
+        color: #fff;
+        background-image: url(/IMGS/ws3.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top;
+        font-family: "Cinzel Decorative", cursive;
+        top:25px;
+        z-index: 5;
+        width: 1200px;
+        height: 700;
+      
+}
+
+
+
+
+.char{
+   
+    color:white;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    line-height: 1.6;
+   width: 30%;
+   position: absolute;
+
+   
+    
+}
+.char1{
+
+    color:white;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    line-height: 1.6;
+   width: 30%;
+   position: absolute;
+
+   
+    
+}
+.char2{
+
+    color:white;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    line-height: 1.6;
+   width: 30%;
+   position: absolute;
+
+   
+    
+}
+
+
+
+
+.char img{
+    margin:0 auto;
+    width:200px;
+    height: 200px;
+    display:inline;
+    position: fixed;
+    top: 66px;
+    left: 131px;
+    z-index: 12;
+    
+}
+
+.char1 img{
+    margin:0 auto;
+    width:150px;
+    height: 150px;
+    display:inline;
+    position: fixed;
+    top: 83px;
+    left: 518px;
+    
+}
+.char3 img{
+    margin:0 auto;
+    width:150px;
+    height: 150px;
+    display:inline;
+    position: fixed;
+
+    
+}

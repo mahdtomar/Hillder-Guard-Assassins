@@ -1,0 +1,49 @@
+body {
+  font-size: 20pt;
+  position: center;
+  background-color: black;
+  padding: 0px;
+  margin: 0px;
+  color: #fff;
+  background-image: url(/IMGS/20201002_112308.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  font-family: "Special Elite", cursive;
+
+  z-index: 5;
+  width: 1200;
+  height: 700;
+}
+
+.rule {
+  margin: 40px auto;
+  text-align: left;
+  width: 80%;
+  color: black;
+}
+.rule:hover {
+  color: red;
+  transition: 5s;
+}
+
+.back {
+  color: #6d0202;
+  position: relative;
+  margin: 0 auto;
+  font-family: "Special Elite", cursive;
+
+  width: fit-content;
+}
+/*
+input[type="checkbox"]{
+  appearance: none;
+  border: 1px solid black;
+  cursor: pointer;
+  padding: 6px;
+}
+input[type="checkbox"]::after{
+  appearance:button;
+  content: url("<i class='far fa-check-circle'></i>");
+}
+*/

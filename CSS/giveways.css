@@ -1,0 +1,55 @@
+body {
+  font-size: 15pt;
+  position: center;
+  background-color: black;
+  padding: 0px;
+  margin: 0px;
+  color: #fff;
+  background-image: url(/IMGS/ws3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  font-family: "Cinzel Decorative", cursive;
+
+  z-index: 5;
+  width: 1200;
+  height: 700;
+}
+
+img {
+  margin: 25px;
+  margin: 50px auto;
+  padding: 30px;
+}
+
+.container {
+  position: relative;
+  top: 100px;
+  padding: 30px;
+  align-items: center;
+  text-align: center;
+}
+
+.ss {
+  margin: 0px auto;
+  display: inline;
+}
+
+.ss:hover {
+  width: 220px;
+  height:320px;
+  transition: 0.3s ;
+}
+.back{
+  color: white;
+  position: relative;
+ margin: 0 auto;
+
+ top:200px;
+ width: fit-content;
+}
+a{
+  text-decoration: none;
+  color:white;
+  
+}

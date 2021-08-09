@@ -1,0 +1,40 @@
+body {
+   font-size: 15pt;
+   position: center;
+   background-color: black;
+   padding: 0px;
+   margin: 0px;
+   color: #fff;
+   background-image: url(ws3.jpg);
+   background-size: 100%;
+
+   width: 1200;
+   height: 700;
+   z-index: 5;
+}
+
+
+.container {
+   margin: 300px auto;
+   background: url(20201002_112308.jpg) ;
+   background-size: cover;
+   width: 250px;
+   height: 400px;
+
+   
+
+}
+p{
+   
+   margin-top: 20px ;
+   text-align: center;
+}
+.names{
+   position: relative;
+   top: 30px;
+   
+   font-family: 'Special Elite', cursive;
+}
+.red{
+   color: #8D0808;
+}
