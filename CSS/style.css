@@ -1,19 +1,19 @@
+* {
+  padding: 0px;
+  margin: 0px auto;
+}
+
 body {
-  font-size: 15pt;
+  font-size: 15px;
   position: center;
   background-color: black;
-  padding: 0px;
-  margin: 0px;
   color: #fff;
-  background-image: url(IMGS/ws3.jpg);
+  background-image: url("/ws3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
   font-family: "Cinzel Decorative", cursive;
-
   z-index: 5;
-  width: 1200;
-  height: 700;
 }
 
 .skull {
